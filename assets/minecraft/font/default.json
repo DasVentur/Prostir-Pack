@@ -27,6 +27,13 @@
             "height": 30,
             "ascent": 1,
             "chars": ["\u0127"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/diamond2.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": ["\u2726"]
         }
     ]
 }
