@@ -33,7 +33,9 @@
             "file": "minecraft:font/diamond2.png",
             "height": 8,
             "ascent": 7,
-            "chars": ["\u2726"]
+            "chars": [
+                "\u2726"
+            ]
         }
     ]
 }
