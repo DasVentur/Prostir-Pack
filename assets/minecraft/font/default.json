@@ -26,9 +26,7 @@
             "file": "minecraft:font/the_end-tab.png",
             "height": 30,
             "ascent": 1,
-            "chars": [
-                "\u0127"
-            ]
+            "chars": ["\u0127"]
         }
     ]
 }
