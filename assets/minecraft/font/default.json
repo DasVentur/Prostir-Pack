@@ -2,10 +2,17 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "minecraft:font/pause-menu.png",
+            "file": "minecraft:font/pause-menu-uk_ua.png",
             "height": 50,
             "ascent": 25,
             "chars": ["\u0124"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/pause-menu-en_us.png",
+            "height": 50,
+            "ascent": 25,
+            "chars": ["\u0128"]
         },
         {
             "type": "bitmap",
@@ -27,13 +34,6 @@
             "height": 30,
             "ascent": 1,
             "chars": ["\u0127"]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:font/diamond2.png",
-            "height": 8,
-            "ascent": 7,
-            "chars": ["\u2726"]
         }
     ]
 }
