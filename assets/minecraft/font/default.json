@@ -34,13 +34,6 @@
             "height": 30,
             "ascent": 1,
             "chars": ["\u0127"]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:font/hearth-emoji.png",
-            "height": 9,
-            "ascent": 8,
-            "chars": ["\ud83d\udc95"]
         }
     ]
 }
