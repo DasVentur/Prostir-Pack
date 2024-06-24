@@ -4,7 +4,7 @@
             "type": "bitmap",
             "file": "minecraft:font/pause-menu-uk_ua.png",
             "height": 50,
-            "ascent": 25,
+            "ascent": 35,
             "chars": ["\u0124"]
         },
         {
