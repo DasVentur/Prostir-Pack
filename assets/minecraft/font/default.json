@@ -18,21 +18,21 @@
             "type": "bitmap",
             "file": "minecraft:font/world-tab.png",
             "height": 30,
-            "ascent": 1,
+            "ascent": 19,
             "chars": ["\u0125"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:font/nether-tab.png",
             "height": 30,
-            "ascent": 1,
+            "ascent": 19,
             "chars": ["\u0126"]
         },
         {
             "type": "bitmap",
             "file": "minecraft:font/the_end-tab.png",
             "height": 30,
-            "ascent": 1,
+            "ascent": 19,
             "chars": ["\u0127"]
         }
     ]
